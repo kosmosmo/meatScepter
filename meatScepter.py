@@ -131,5 +131,5 @@ class main():
         else:
             print "path not exists"
 
-if not directory:"need to specify directory"
+if not directory:print "need to specify directory"
 main(directory=directory)
