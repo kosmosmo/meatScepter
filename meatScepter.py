@@ -9,7 +9,7 @@
 # Use at your own risk
 
 
-directory = '\\\\MOMO-PC\\buildTest'
+directory = ''
 
 # specify where you want to dump the images.
 #Path need to use forwardslash "/" or double slash"\\" !!
