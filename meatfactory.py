@@ -25,9 +25,9 @@ class meatFactory():
     def cache(self):
         self.main()
         print len(self.res)
-        with open('CacheUrl.txt', 'w') as outfile:
+        with open('CacheUrl2.txt', 'w') as outfile:
             json.dump(self.res, outfile)
 
-#keys = ["cat"]
-keys = ["cock dick", "cock penis", "cock big", "cock small","cock cum"]
+keys = ["puppy","kitty"]
+#keys = ["cock dick", "cock penis", "cock big", "cock small","cock cum"]
 a = meatFactory(keys).cache()
