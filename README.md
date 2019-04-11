@@ -1,5 +1,5 @@
 # Meat Scepter
-Fill up folder with random dick pics.
+Fill up folder with random meat pics.
 
 Artist friendly,Compatible with all version of Maya
 
